@@ -1,13 +1,10 @@
-
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=%20duqrldudgns%20%20&fontSize=50)
-
-### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduqrldudgns)](https://hits.seeyoufarm.com)
+### 개발자국🐾[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduqrldudgns)](https://hits.seeyoufarm.com)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duqrldudgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=duqrldudgns)
+![trophy](https://github-profile-trophy.vercel.app/?username=duqrldudgns&theme=flat&column=7)
 
 <a href="https://www.instagram.com/iam.young/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 

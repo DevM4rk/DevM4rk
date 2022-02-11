@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=%20duqrldudgns%20%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=%20duqrldudgns%20%20&fontSize=50)
 
 ### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduqrldudgns)](https://hits.seeyoufarm.com)
 

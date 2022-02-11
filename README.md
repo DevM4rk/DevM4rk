@@ -2,6 +2,7 @@
   
 ### 개발자국🐾[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduqrldudgns)](https://hits.seeyoufarm.com)
 
+![개발자국](https://user-images.githubusercontent.com/48309387/153665841-8286ac88-e37f-485d-9ed2-3abe11a63adb.png)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duqrldudgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

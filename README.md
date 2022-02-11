@@ -11,8 +11,6 @@
 ### 🐾개발자국 DevMarks🐾
 ---
   
-![개발자국](https://user-images.githubusercontent.com/48309387/153665841-8286ac88-e37f-485d-9ed2-3abe11a63adb.png)
-
 <br>
   
 ### 🐾SNS List🐾

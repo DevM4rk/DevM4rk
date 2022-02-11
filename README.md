@@ -4,6 +4,8 @@
   
 </div>
 
+
+
 <div align="center">
   
 ### 🐾개발자국 DevMarks🐾
@@ -30,6 +32,11 @@
   
 ### 🐾My Marks🐾
   
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=while"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Unreal Engine-555263?style=flat-square&logo=Unreal Engine&logoColor=black"/></a>
+
+  
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)
   &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duqrldudgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,8 +46,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=duqrldudgns&theme=flat&column=7)
 
   
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=while"/></a>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=while"/></a>
 
-  </div>
+
+</div>
   

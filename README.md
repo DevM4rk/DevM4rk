@@ -18,9 +18,9 @@
    
 <a href="https://www.youtube.com/user/duqrldudgns/" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.instagram.com/iam.young/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duqrldudgns@gmail.com)](mailto:duqrldudgns@gmail.com)
+&nbsp;
+<a href="https://www.instagram.com/iam.young/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 &nbsp;
 <a href="http://qr.kakao.com/talk/Ga2.FY.ariWL8dqKQ.mWQqfRcXA-" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 &nbsp;
@@ -31,9 +31,9 @@
   
 ### 🐾My Marks🐾
   
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=while"/></a>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Unreal Engine-555263?style=flat-square&logo=Unreal Engine&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
 
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)

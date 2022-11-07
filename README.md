@@ -48,7 +48,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
 
-  
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)
   &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duqrldudgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

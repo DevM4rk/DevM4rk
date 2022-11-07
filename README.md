@@ -34,6 +34,19 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  &nbsp;
+<br>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Network-0076D6?style=flat-square&logo=Internet Explorer&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
 
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)

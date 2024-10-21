@@ -55,7 +55,7 @@
   
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevM4rk)](https://solved.ac/duqrldudgns)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqrldudgns)](https://solved.ac/duqrldudgns)
   &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM4rk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

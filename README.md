@@ -61,7 +61,7 @@
 
 <br>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=DevM4rk&theme=flat&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=DevM4rk&theme=flat&column=5)
 
   
 
